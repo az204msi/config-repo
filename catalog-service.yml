@@ -1,2 +1,7 @@
 polar:
   greeting: "Welcome to the catalog from a fresh config server."
+cors:
+  allowedOrigins:
+    - https://abc.example.com
+    - https://xyz.example.com
+    - https://abc-sub.example.com
